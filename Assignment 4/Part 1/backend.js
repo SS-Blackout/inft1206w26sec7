@@ -1,3 +1,7 @@
+// Name: Noah Lad 100765390
+// File: backend.js
+// Date: April 10 2026
+// Description: Assignemt 4 for INFT 1206-07
 // Complete variable definitions and random functions
 
 const customName = document.getElementById("custom-name");
