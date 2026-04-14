@@ -48,5 +48,5 @@ function submitComment() {
   listItem.appendChild(commentPara);
 
   nameField.value = '';
-  commentField.value = '';
+  commentField.value = '';  
 }
