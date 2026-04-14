@@ -1,3 +1,8 @@
+// Name: Noah Lad 100765390
+// File: index.html
+// Date: April 17 2026
+D// escription Assignment 5 for INFT-1206-07
+
 // functionality for showing/hiding the comments section
 
 const showHideBtn = document.querySelector('.show-hide');
